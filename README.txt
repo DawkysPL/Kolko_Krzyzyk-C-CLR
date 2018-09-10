@@ -1,0 +1,1 @@
+U must use VisualStudio to open *.sln project or u must do instal version to install game
